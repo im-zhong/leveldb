@@ -6,3 +6,7 @@
 # Build directory.
 build/
 out/
+
+# Build artifacts.
+compile_commands.json
+.cache
